@@ -11,7 +11,7 @@
 - [express](https://expressjs.com/pt-br/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [ytdl-core](https://github.com/fent/node-ytdl) -> Para baixar vídeos do Youtube.
-- [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) -> Para converter .mp4 para .wav
+- [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) -> Para converter .mp4 para .wav, formato que a IA precisa.
 - [node-wav](https://github.com/andreasgal/node-wav) -> Para manipular dados de áudio em formato WAV.
 - [@xenova/transformers](https://github.com/xenova/transformers.js) -> Para usar os modelos de [IA's](https://huggingface.co/models?sort=trending&search=xenova).
 
@@ -48,3 +48,9 @@ Inicie o servidor
 ```
 
 ## Screenshots
+
+### Home
+![App Screenshot](https://github.com/matheusfd3/ignite-shop/blob/main/.github/home.png)
+
+### Search Result
+![App Screenshot](https://github.com/matheusfd3/ignite-shop/blob/main/.github/result.png)
