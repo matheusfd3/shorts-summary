@@ -50,7 +50,7 @@ Inicie o servidor
 ## Screenshots
 
 ### Home
-![App Screenshot](https://github.com/matheusfd3/ignite-shop/blob/main/.github/home.png)
+![App Screenshot](https://github.com/matheusfd3/shorts-summary/blob/main/.github/home.png)
 
 ### Search Result
-![App Screenshot](https://github.com/matheusfd3/ignite-shop/blob/main/.github/result.png)
+![App Screenshot](https://github.com/matheusfd3/shorts-summary/blob/main/.github/result.png)
